@@ -20,3 +20,7 @@ Google Search:
 "character printing code"
 "asterisk representation"
 "input-based printing"
+
+
+
+![image](https://github.com/ninsgosai/patterns/assets/17059977/a2bd3e95-52fb-42ca-bb86-3fda9484cac1)
